@@ -6,3 +6,7 @@ News App
 
 Country : Al-Kuwait
 
+### Developed by 
+
+Ahmed Ashraf 
+Mobile App`s Developer 
